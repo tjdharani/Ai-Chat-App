@@ -1,4 +1,4 @@
-# AI Chat Bot using Django and GPT-3.5 Turbo
+# AI Chat App using Django and GPT-3.5 Turbo
 
 ## Overview
 
@@ -19,19 +19,13 @@ Welcome to the AI Chat Bot project! This repository hosts a chat application bui
 - **GPT-3.5 Turbo Model:** Integrates OpenAI's GPT-3.5 Turbo for intelligent responses to user queries, enhancing the chatbot's conversational capabilities.
 
 
-## Usage
-
-1. Set up the Django environment.
-2. Configure the OpenAI API key in django_app/chatapp/views.py
-3. Run the application.
-
 ## Setup
 
--```git clone https://github.com/tjdharani/Ai-Chat-App```
--```cd Ai-Chat-App```
--```pip install -r requirements.txt```
+- ```git clone https://github.com/tjdharani/Ai-Chat-App```
+- ```cd Ai-Chat-App```
+- ```pip install -r requirements.txt```
 - Configure the OpenAI API key in django_app/chatapp/views.py
-```python manage.py runserver```
+- ```python manage.py runserver```
 
 Open a web browser and navigate to http://127.0.0.1:8000/ to view your Django project.
 
