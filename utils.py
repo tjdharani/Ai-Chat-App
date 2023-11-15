@@ -1,3 +1,4 @@
+'''
 from django.shortcuts import render, redirect
 from django.http import JsonResponse
 from django.contrib import auth
@@ -71,3 +72,4 @@ def register(request):
 def logout(request):
     auth.logout(request)
     return redirect('login')
+'''
