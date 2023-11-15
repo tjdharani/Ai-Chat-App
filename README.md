@@ -21,7 +21,7 @@ Welcome to the AI Chat Bot project! This repository hosts a chat application bui
 
 ## Setup
 
-- ```git clone https://github.com/tjdharani/Ai-Chat-App```
+- ```git clone https://github.com/tjdharani/Ai-Chat-App.git```
 - ```cd Ai-Chat-App```
 - ```pip install -r requirements.txt```
 - Configure the OpenAI API key in django_app/chatapp/views.py
